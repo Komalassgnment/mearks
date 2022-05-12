@@ -94,7 +94,7 @@
 
  button:active {
    top: 5px;
-   box-shadow: none !important;
+   box-shadow: none;
  }
 
  @media screen and (max-width: 768px) {
